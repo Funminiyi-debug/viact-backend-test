@@ -60,12 +60,12 @@ $ npm run test:cov
 
 ## Config variable
 
-PORT = 7000
-AUTH0_AUDIENCE = https://viact-backend-api/api
-AUTH0_ISSUER_URL = https://{Auth0 tenant id}.auth0.com/
-CLIENT_ID = CLIENT ID
-CLIENT_SECRET = CLIENT SECRET
-REDIRECT_URI = http://localhost:7000/auth/callback
+PORT = 7000 <br/>
+AUTH0_AUDIENCE = https://viact-backend-api/api <br/>
+AUTH0_ISSUER_URL = https://{Auth0 tenant id}.auth0.com/ <br/>
+CLIENT_ID = CLIENT ID <br/>
+CLIENT_SECRET = CLIENT SECRET <br/>
+REDIRECT_URI = http://localhost:7000/auth/callback <br/>
 
 ## Support
 
@@ -73,7 +73,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
+- Author - Funminiyi Anwo
 - Website - [https://nestjs.com](https://nestjs.com/)
 - Twitter - [@nestframework](https://twitter.com/nestframework)
 
